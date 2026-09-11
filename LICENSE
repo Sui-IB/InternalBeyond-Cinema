@@ -1,0 +1,58 @@
+Internal Beyond · Cinema — License
+
+Copyright © 2025–2026 Sui (https://github.com/Sui-IB/InternalBeyond-Cinema)
+Contact: 1282901880@qq.com
+
+Required Notice: Copyright © 2025–2026 Sui (https://github.com/Sui-IB/InternalBeyond-Cinema)
+
+This project contains two categories of material, each under its own license:
+
+1. CODE (JavaScript source files)
+   Licensed under the PolyForm Noncommercial License 1.0.0.
+   Full text: LICENSES/PolyForm-Noncommercial-1.0.0.md
+
+2. VISUAL ASSETS AND DOCUMENTATION (README, images, and all non-code files)
+   Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+   International (CC BY-NC-SA 4.0), to the extent that Sui holds the rights.
+   Full text: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+The public license permits noncommercial use, study, modification, and
+redistribution. As that license requires, anyone who receives any part of the
+software from you must also receive these terms (or the URL above) together
+with the "Required Notice" line printed at the top of this file.
+
+Selling, paid distribution, commercial hosting, or bundling into a paid
+product requires Sui's explicit written permission.
+
+ATTRIBUTION AND NOTICE RETENTION
+
+Any copy, deployment, mirror, fork, or modified version of this project, in
+whole or in part, must keep intact:
+
+  (a) the copyright line "Copyright © 2025–2026 Sui" and the Required Notice
+      at the top of this file;
+  (b) this LICENSE file and the LICENSES/ folder;
+  (c) the author attribution shown inside the interface — the name "Sui / 水",
+      the contact address, and the link to the original repository — which may
+      not be removed, hidden, replaced, or attributed to another person; and
+  (d) a visible link to the original repository
+      https://github.com/Sui-IB/InternalBeyond-Cinema.
+
+A modified version must be clearly marked as a modified, unofficial build and
+must not be presented as the official project or as authorized by Sui.
+
+The author's right of attribution is a personal right of the author. It is not
+transferred, waived, or diminished by any permission granted here, and it
+survives every permitted redistribution or modification.
+
+署名与声明保留（中文）
+
+对本项目全部或部分内容的任何复制、部署、镜像、Fork 或修改版本，均须原样保留：
+（一）版权行「Copyright © 2025–2026 Sui」与本文件顶部的 Required Notice；
+（二）本 LICENSE 文件与 LICENSES/ 文件夹；
+（三）界面内的作者署名——「Sui / 水」、联系邮箱与原仓库链接——不得删除、隐藏、替换或改署他人；
+（四）指向原仓库 https://github.com/Sui-IB/InternalBeyond-Cinema 的可见链接。
+修改版须明确标注为非官方的修改版本，不得冒充官方项目或声称获得 Sui 授权。
+作者的署名权属于作者本人的人身权利，不随本文件的任何授权而转让、放弃或减损，并在任何被许可的再分发与修改中持续有效。
+
+THE SOFTWARE AND MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
